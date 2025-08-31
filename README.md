@@ -1,52 +1,53 @@
-Tech Stack
+## 🏗️ Tech Stack  
 
-Frontend
+**Frontend**  
+- Next.js  
+- React  
+- Tailwind CSS  
 
-Next.js
+**Backend**  
+- Node.js  
+- Express.js  
+- WebSockets  
 
-React
+**Database**  
+- PostgreSQL  
+- Prisma ORM  
 
-Tailwind CSS
+**DevOps & Tooling**  
+- Turborepo – monorepo management  
+- PNPM – fast package installs  
+- TypeScript – type safety  
 
-Backend
+---
 
-Node.js
+## 📂 Monorepo Structure  
 
-Express.js
-
-WebSockets
-
-Database
-
-PostgreSQL
-
-Prisma ORM
-
-DevOps & Tooling
-
-Turborepo – monorepo management
-
-PNPM – fast package installs
-
-TypeScript – type safety
-
-📂 Monorepo Structure
 exaliDraw/
 ├── apps/
-│   ├── excelidraw-frontend   # Next.js frontend
-│   ├── http-backend          # REST API backend
-│   ├── ws-backend            # WebSocket backend
-│   └── web                   # Playground / demo app
+│ ├── excelidraw-frontend # Next.js frontend
+│ ├── http-backend # REST API backend
+│ ├── ws-backend # WebSocket backend
+│ └── web # Playground / demo app
 ├── packages/
-│   ├── db                    # Prisma schema + migrations
-│   ├── ui                    # Shared UI components
-│   ├── common                # Shared utilities
-│   └── typescript-config     # Central TS configs
+│ ├── db # Prisma schema + migrations
+│ ├── ui # Shared UI components
+│ ├── common # Shared utilities
+│ └── typescript-config # Central TS configs
 
-🚀 Getting Started
-1️⃣ Clone the repository
+
+
+
+---
+
+## 🚀 Getting Started  
+
+### 1️⃣ Clone the repository  
+```bash
 git clone https://github.com/yourusername/exalidraw-clone.git
 cd exalidraw-clone
+
+
 
 2️⃣ Install dependencies
 pnpm install
