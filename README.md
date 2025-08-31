@@ -66,11 +66,10 @@ pnpm prisma generate
 pnpm run dev
 
 
-## 📸 Screenshots  
-## 📸 Screenshots  
+## 📸 Screenshots
 
 ### Whiteboard View  
-![Excalidraw Screenshot 1](./assets/EXACLIDRAW%201.jpg)  
+![Excalidraw Screenshot 1](./assets/EXACLIDRAW1.jpg)
 
 ### Collaboration View  
-![Excalidraw Screenshot 2](./assets/exaclidraw%202.jpg)  
+![Excalidraw Screenshot 2](./assets/exaclidraw2.jpg)
