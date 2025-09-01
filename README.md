@@ -68,8 +68,8 @@ pnpm run dev
 
 ## 📸 Screenshots
 
-### Whiteboard View  
+### Whiteboard View
 ![Excalidraw Screenshot 1](./assets/EXACLIDRAW1.jpg)
 
-### Collaboration View  
+### Collaboration View
 ![Excalidraw Screenshot 2](./assets/exaclidraw2.jpg)
